@@ -1,0 +1,17 @@
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\IO.Swagger.dll
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\IO.Swagger.pdb
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\RestSharp.dll
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\bin\Debug\RestSharp.xml
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\obj\Debug\IO.Swagger.dll
+C:\Projects\Cox.DealerAndVehicles.byOmerYesil\IO.Swagger\obj\Debug\IO.Swagger.pdb
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\IO.Swagger.dll
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\IO.Swagger.pdb
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\RestSharp.dll
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\bin\Debug\RestSharp.xml
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\obj\Debug\IO.Swagger.csprojResolveAssemblyReference.cache
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\obj\Debug\IO.Swagger.dll
+C:\Projects\Awapi.DealerAndVehicles\IO.Swagger\obj\Debug\IO.Swagger.pdb

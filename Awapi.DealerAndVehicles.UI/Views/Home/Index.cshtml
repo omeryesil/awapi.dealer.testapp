@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Awapi Dealers and Vehicles</h1>
+    <p class="lead">Software Architect Position Interview Application by <strong>Omer Yesil</strong></p>
+</div>
+
+<div class="row">
+    <form method="post">
+        <h2>Getting DataSet ID</h2>
+        <p>
+            <input type="submit" value="Generate" name="action" /> <input id="dataSetId" name="dataSetId" type="text" value="@Html.Raw((String)ViewBag.DatasetId)" />
+
+        </p>
+        <hr/>
+        <h2>Getting Vehicles and Dealers, then Posting to Answer Endpoint</h2>
+        <p>
+            <input type="submit" value="Submit" name="action" />
+            <br />Answer Result:<label>@Html.Raw((String)ViewBag.AnswerResponse)</label>
+            <br/>@Html.Raw((string)ViewBag.ExecutionTime) 
+        </p>
+        
+    </form>
+</div>
